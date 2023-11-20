@@ -1,22 +1,36 @@
 import 'dart:math' as math;
 
 void main() {
-  double standardDeviation(List<int> items) {
-    double ava = 0.0;
-    int sum = 0;
-    double a = 0.0;
-    for (int i = 0; i < items.length; i++) {
-      sum += items[i];
-    }
-    ava = sum / items.length;
-    print(ava);
-    for (int i = 0; i < items.length; i++) {
-      a += math.pow(items[i] - ava, 2);
-    }
-    print(a);
+  List<int> xx = [2, 1, 1, 4, 2];
+  List<int> yy = [3, 4, 1, 2, 2];
 
-    return math.sqrt(a / items.length);
+  double getCorrelationCoefficient(List<int> yy, List<int> xx) {
+    double y = 0;
+    double x = 0;
+    double x2 = 0;
+    double y2 = 0;
+    double xy = 0;
+
+    double n = yy.length.toDouble();
+    for (int i = 0; i < n; i++) {
+      x += xx[i];
+      y += yy[i];
+      xy += xx[i] * yy[i];
+      x2 += math.pow(xx[i], 2);
+      y2 += math.pow(yy[i], 2);
+    }
+
+    var up = n * xy - y * x;
+    var down =
+        math.sqrt(n * x2 - math.pow(x, 2)) * math.sqrt(n * y2 - math.pow(y, 2));
+    print("x : $x");
+    print("y : $y");
+    print("x2 : $x2");
+    print("y2 : $y2");
+    print("xy : $xy");
+
+    return up / down;
   }
 
-  print(standardDeviation([10, 12, 23, 23, 16, 23, 21, 16]));
+  print(getCorrelationCoefficient(yy, xx));
 }
