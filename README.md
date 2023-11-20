@@ -1,6 +1,6 @@
 # Algorithms Analysis and Design
 
-This repository contains the materials and code implementations for the "Algorithms Analysis and Design from Scratch" course. The course covers various algorithms, their analysis, and design principles. Below is an overview of the contents and structure of this repository.
+This repository contains the materials and code implementations for the "Algorithms Analysis and Design from Scratch" course. The course covers various algorithms, their analysis, and design principles. For more details, visit the [course page](https://cloudnativebasecamp.com/courses/algo-01/).
 
 ## Table of Contents
 
