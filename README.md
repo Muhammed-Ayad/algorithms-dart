@@ -24,7 +24,7 @@ This repository contains the materials and code implementations for the "Algorit
 
 7. [Algorithms Analysis - Drawing Complexity classes on graph](#algorithms-analysis-drawing-complexity-classes-on-graph)
 
-8. [Insertion Sort](blob/main/bin/insertion_sort.dart)
+8. [Insertion Sort](/bin/insertion_sort.dart)
    - [Algorithm](#algorithm-2)
    - [Code](#code-2)
    - [Analysis](#analysis)
