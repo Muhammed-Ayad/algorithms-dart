@@ -20,7 +20,7 @@ This repository contains the materials and code implementations for the "Algorit
 
 8. [Insertion Sort](/bin/insertion_sort.dart)
 
-9. [Recursion - Divide & Conquer - Merge Sort](#recursion-divide--conquer--merge-sort)
+9. [Recursion - Divide & Conquer - Merge Sort](/bin/recursion.dart)
 
 10. [Divide & Conquer - Merge Sort](#divide--conquer--merge-sort)
 
