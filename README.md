@@ -22,7 +22,7 @@ This repository contains the materials and code implementations for the "Algorit
 
 9. [Recursion - Divide & Conquer - Merge Sort](/bin/recursion.dart)
 
-10. [Divide & Conquer - Merge Sort](#divide--conquer--merge-sort)
+10. [Divide & Conquer - Merge Sort](/bin/merge_sort.dart)
 
 11. [Binary Search](#binary-search)
 
