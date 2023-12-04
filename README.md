@@ -24,7 +24,7 @@ This repository contains the materials and code implementations for the "Algorit
 
 10. [Divide & Conquer - Merge Sort](/bin/merge_sort.dart)
 
-11. [Binary Search](#binary-search)
+11. [Binary Search](/bin/binary_search.dart)
 
 12. [Segregate Positive and Negative Numbers](#segregate-positive-and-negative-numbers)
 
