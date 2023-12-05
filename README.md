@@ -26,7 +26,7 @@ This repository contains the materials and code implementations for the "Algorit
 
 11. [Binary Search](/bin/binary_search.dart)
 
-12. [Segregate Positive and Negative Numbers](#segregate-positive-and-negative-numbers)
+12. [Segregate Positive and Negative Numbers](/bin/segregate.dart)
 
 13. [Calculus - Optimization Problems - Max Profit Example](#calculus-optimization-problems-max-profit-example)
 
