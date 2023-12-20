@@ -34,7 +34,7 @@ This repository contains the materials and code implementations for the "Algorit
 
 15. [Greedy Algorithm - Activity Selection Problem](/bin/activity_selection_problem.dart)
 
-16. [Sorted Characters Frequencies](#sorted-characters-frequencies)
+16. [Sorted Characters Frequencies](/bin/characters_frequencies.dart)
 
 17. [Greedy Algorithm - Huffman Coding](#greedy-algorithm-huffman-coding)
 
