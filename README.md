@@ -4,19 +4,19 @@ This repository contains the materials and code implementations for the "Algorit
 
 ## Table of Contents
 
-1. [Circle Area]
+1. Circle Area
 
-2. [Sigma Notation - Standard Deviation]
+2. Sigma Notation - Standard Deviation
 
 3. [Standard Deviation](/bin/standard_deviation.dart)
 
-4. [Algorithms Analysis - Introduction]
+4. Algorithms Analysis - Introduction
 
-5. [Algorithms Analysis - Calculus Function]
+5. Algorithms Analysis - Calculus Function
 
-6. [Algorithms Analysis - Big O Notation]
+6. Algorithms Analysis - Big O Notation
 
-7. [Algorithms Analysis - Drawing Complexity classes on graph]
+7. Algorithms Analysis - Drawing Complexity classes on graph
 
 8. [Insertion Sort](/bin/insertion_sort.dart)
 
@@ -28,9 +28,9 @@ This repository contains the materials and code implementations for the "Algorit
 
 12. [Segregate Positive and Negative Numbers](/bin/segregate.dart)
 
-13. [Calculus - Optimization Problems - Max Profit Example]
+13. Calculus - Optimization Problems - Max Profit Example
 
-14. [Greedy Algorithm - Introduction]
+14. Greedy Algorithm - Introduction
 
 15. [Greedy Algorithm - Activity Selection Problem](/bin/activity_selection_problem.dart)
 
