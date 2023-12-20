@@ -4,19 +4,19 @@ This repository contains the materials and code implementations for the "Algorit
 
 ## Table of Contents
 
-1. [Circle Area](#circle-area)
+1. [Circle Area]
 
-2. [Sigma Notation - Standard Deviation](#sigma-notation-standard-deviation)
+2. [Sigma Notation - Standard Deviation]
 
 3. [Standard Deviation](/bin/standard_deviation.dart)
 
-4. [Algorithms Analysis - Introduction](#algorithms-analysis-introduction)
+4. [Algorithms Analysis - Introduction]
 
-5. [Algorithms Analysis - Calculus Function](#algorithms-analysis-calculus-function)
+5. [Algorithms Analysis - Calculus Function]
 
-6. [Algorithms Analysis - Big O Notation](#algorithms-analysis-big-o-notation)
+6. [Algorithms Analysis - Big O Notation]
 
-7. [Algorithms Analysis - Drawing Complexity classes on graph](#algorithms-analysis-drawing-complexity-classes-on-graph)
+7. [Algorithms Analysis - Drawing Complexity classes on graph]
 
 8. [Insertion Sort](/bin/insertion_sort.dart)
 
@@ -28,11 +28,11 @@ This repository contains the materials and code implementations for the "Algorit
 
 12. [Segregate Positive and Negative Numbers](/bin/segregate.dart)
 
-13. [Calculus - Optimization Problems - Max Profit Example](#calculus-optimization-problems-max-profit-example)
+13. [Calculus - Optimization Problems - Max Profit Example]
 
-14. [Greedy Algorithm - Introduction](#greedy-algorithm-introduction)
+14. [Greedy Algorithm - Introduction]
 
-15. [Greedy Algorithm - Activity Selection Problem](#greedy-algorithm-activity-selection-problem)
+15. [Greedy Algorithm - Activity Selection Problem](/bin/activity_selection_problem.dart)
 
 16. [Sorted Characters Frequencies](#sorted-characters-frequencies)
 
