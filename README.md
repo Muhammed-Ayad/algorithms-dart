@@ -36,7 +36,7 @@ This repository contains the materials and code implementations for the "Algorit
 
 16. [Sorted Characters Frequencies](/bin/characters_frequencies.dart)
 
-17. [Greedy Algorithm - Huffman Coding](#greedy-algorithm-huffman-coding)
+17. [Greedy Algorithm - Huffman Coding](/bin/huffman_coding.dart)
 
 18. [Greedy Algorithm - Fractional Knapsack Problem](#greedy-algorithm-fractional-knapsack-problem)
 
