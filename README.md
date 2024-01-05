@@ -38,7 +38,7 @@ This repository contains the materials and code implementations for the "Algorit
 
 17. [Greedy Algorithm - Huffman Coding](/bin/huffman_coding.dart)
 
-18. [Greedy Algorithm - Fractional Knapsack Problem](#greedy-algorithm-fractional-knapsack-problem)
+18. [Greedy Algorithm - Fractional Knapsack Problem](/bin/fractional_knapsack_problem.dart)
 
 19. [Dynamic Programming - Stagecoach Problem](#dynamic-programming-stagecoach-problem)
 
