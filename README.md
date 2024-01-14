@@ -40,11 +40,11 @@ This repository contains the materials and code implementations for the "Algorit
 
 18. [Greedy Algorithm - Fractional Knapsack Problem](/bin/fractional_knapsack_problem.dart)
 
-19. [Dynamic Programming - Stagecoach Problem](#dynamic-programming-stagecoach-problem)
+19. Dynamic Programming - Stagecoach Problem
 
-20. [Dynamic Programming - Longest Common Subsequence](#dynamic-programming-longest-common-subsequence)
+20. Dynamic Programming - Longest Common Subsequence
 
-21. [Dynamic Programming - 0/1 Knapsack Problem](#dynamic-programming-01-knapsack-problem)
+21. Dynamic Programming - 0/1 Knapsack Problem
 
 22. [Graph - Introduction](#graph-introduction)
 
